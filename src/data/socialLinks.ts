@@ -3,7 +3,6 @@ import {
   faLinkedin,
   faTelegram,
   faInstagram,
-  faXTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import Strings from "@/constants/strings";
@@ -34,12 +33,6 @@ const socialLinks: ISocialLinkItem[] = [
     icon: faInstagram,
     text: Strings.instagramUsername,
   },
-  // {
-  //   name: Strings.twitter,
-  //   url: Strings.twitterLink,
-  //   icon: faXTwitter,
-  //   text: Strings.twitterUsername,
-  // },
   {
     name: Strings.email,
     url: Strings.primaryEmailLink,
