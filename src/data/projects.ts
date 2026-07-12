@@ -9,7 +9,7 @@ const projects: IProjectItem[] = [
     icon: "/images/agentic.png",
     repoType: RepoType.Public,
     projectType: ProjectType.TeamProject,
-    githubUrl: "YOUR_GITHUB_LINK",
+    githubUrl: "https://github.com/ankit010IITJ/agentic-model",
     tags: [
       "FastAPI",
       "Gemini Vision",
@@ -19,7 +19,7 @@ const projects: IProjectItem[] = [
     ],
     summary:
       "Built a scalable multi-agent system that converts handwritten answer sheets into structured digital documents using Vision LLMs.",
-    duration: "Sep 2025 – Nov 2025",
+    duration: "Sep 2025 - Nov 2025",
     location: "IIT Jodhpur",
     roles: ["AI Engineer", "Backend Developer"],
     responsibilities: [
@@ -53,7 +53,7 @@ const projects: IProjectItem[] = [
     icon: "/images/rag.png",
     repoType: RepoType.Public,
     projectType: ProjectType.TeamProject,
-    githubUrl: "YOUR_GITHUB_LINK",
+    githubUrl: "https://github.com/ankit010IITJ/LegalRAG",
     tags: [
       "Python",
       "LangChain",
@@ -63,7 +63,7 @@ const projects: IProjectItem[] = [
     ],
     summary:
       "AI assistant for legal document retrieval, drafting, and analysis.",
-    duration: "Sep 2024 – Nov 2024",
+    duration: "Sep 2024 - Nov 2024",
     location: "IIT Jodhpur",
     roles: ["AI Engineer"],
     responsibilities: [
@@ -96,7 +96,7 @@ const projects: IProjectItem[] = [
     icon: "/images/linux.png",
     repoType: RepoType.Public,
     projectType: ProjectType.CourseWork,
-    githubUrl: "YOUR_GITHUB_LINK",
+    githubUrl: "github.com/crgoku7/Resource_Monitor_Linux",
     tags: [
       "C++",
       "Linux",
@@ -105,7 +105,7 @@ const projects: IProjectItem[] = [
     ],
     summary:
       "Built a lightweight Linux monitoring tool with real-time CPU, memory, and process tracking.",
-    duration: "Sep 2024 – Nov 2024",
+    duration: "Sep 2024 - Nov 2024",
     location: "IIT Jodhpur",
     roles: ["System Programmer"],
     responsibilities: [
@@ -133,7 +133,7 @@ const projects: IProjectItem[] = [
     icon: "/images/bitcoin.png",
     repoType: RepoType.Public,
     projectType: ProjectType.CourseWork,
-    githubUrl: "YOUR_GITHUB_LINK",
+    githubUrl: "https://github.com/ankit010IITJ/Bitcoin_insights",
     tags: [
       "Python",
       "Pandas",
@@ -143,7 +143,7 @@ const projects: IProjectItem[] = [
     ],
     summary:
       "Analyzed over 211k cryptocurrency trades using machine learning and time-series forecasting.",
-    duration: "Sep 2024 – Nov 2024",
+    duration: "Sep 2024 - Nov 2024",
     location: "IIT Jodhpur",
     roles: ["ML Engineer"],
     responsibilities: [
@@ -176,7 +176,7 @@ const projects: IProjectItem[] = [
     icon: "/images/face.png",
     repoType: RepoType.Public,
     projectType: ProjectType.CourseWork,
-    githubUrl: "YOUR_GITHUB_LINK",
+    githubUrl: "https://github.com/dhyeyinf/Face_Identification",
     tags: [
       "Python",
       "OpenCV",
@@ -186,7 +186,7 @@ const projects: IProjectItem[] = [
     ],
     summary:
       "Developed a face identification system combining traditional computer vision techniques with deep learning for accurate real-time recognition.",
-    duration: "Feb 2023 – Apr 2023",
+    duration: "Feb 2023 - Apr 2023",
     location: "IIT Jodhpur",
     roles: ["Machine Learning Engineer"],
     responsibilities: [
