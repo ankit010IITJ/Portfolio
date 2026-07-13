@@ -1,19 +1,6 @@
 import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
-  // {
-  //   icon: "/skills/devlup.png",
-  //   designation: "Full Stack Developer",
-  //   company: "Develop Labs",
-  //   startDate: "Feb 2024",
-  //   endDate: "",
-  //   isCurrentJob: true,
-  //   location: "Jodhpur, India",
-  //   shortDescription:
-  //     "Building modern full-stack web applications and collaborating on innovative software projects.",
-  //   description:
-  //     "As a Full Stack Developer at Develop Labs, I build scalable web applications using modern technologies such as React, Next.js, Node.js, and databases. I collaborate with fellow developers to design, develop, and deploy high-quality software solutions while following clean coding practices, responsive design principles, and efficient API integration.",
-  // },
   {
     icon: "/skills/astrobodh.png",
     designation: "Software Developer Intern",
@@ -31,17 +18,17 @@ const experiences: IExperienceItem[] = [
     icon: "/skills/iitj.png",
     designation: "Frontend Developer",
     company: "CETSD, IIT Jodhpur",
-    startDate: "2024", // Replace with actual month if you remember
-    endDate: "2024",
+    startDate: "Feb 2025",
+    endDate: "Apr 2025",
     isCurrentJob: false,
     location: "Jodhpur, India",
     shortDescription:
       "Redesigned and enhanced the user interface of the Centre for Emerging Technologies for Sustainable Development (CETSD) website at IIT Jodhpur.",
     description:
-      "Worked under the guidance of a faculty member at IIT Jodhpur to redesign and improve the CETSD website. Revamped the user interface with modern, responsive layouts, improved user experience across devices, optimized navigation and accessibility, and implemented reusable frontend components using React and Next.js. Collaborated closely with stakeholders to ensure the website reflected the institute's vision while maintaining performance and maintainability.",
+      "Worked under the guidance of Prof. Shreya Banerjee at IIT Jodhpur to redesign and improve the CETSD website. Revamped the user interface with modern, responsive layouts, improved user experience across devices, optimized navigation and accessibility, and implemented reusable frontend components using React and Next.js. Collaborated closely with stakeholders to ensure the website reflected the institute's vision while maintaining performance and maintainability.",
   },
   {
-    icon: "/skills/iitj.png", // Use IIT Jodhpur logo if available
+    icon: "/skills/iitj.png",
     designation: "UG Research Assistant",
     company: "IIT Jodhpur",
     startDate: "Jun 2025",
@@ -51,7 +38,7 @@ const experiences: IExperienceItem[] = [
     shortDescription:
       "Conducted deep learning research on molecular dynamics coarse-graining using PyTorch and scientific computing workflows.",
     description:
-      "Worked under Prof. Nil Kamal Hazra on reproducing a published machine learning-based coarse-graining methodology for molecular dynamics simulations. Generated and preprocessed MD trajectories, extracted structural features, and curated supervised datasets for training deep learning models. Built PyTorch training pipelines to learn coarse-grained forces and potentials, validated models using radial distribution functions and thermodynamic observables, and performed model selection, hyperparameter tuning, and quantitative evaluation to ensure structural and thermodynamic consistency. Gained hands-on experience in scientific machine learning, dataset curation, trajectory parsing, and reproducible research workflows.",
+      "Worked under Prof. Nil Kamal Hazra on reproducing a published machine learning-based coarse-graining methodology for molecular dynamics simulations. Built PyTorch training pipelines, processed MD trajectories, curated datasets, and trained deep learning models. Evaluated model performance using structural and thermodynamic metrics while gaining hands-on experience in scientific machine learning and reproducible research.",
   },
 ];
 
