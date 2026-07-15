@@ -147,7 +147,7 @@ const skills: ISkillListItem[] = [
       {
         title: "DBMS",
         level: SkillLevel.Intermediate,
-        icon: "/skills/dbms.png",
+        icon: "/images/dbms.png",
       },
       {
         title: "COA",
