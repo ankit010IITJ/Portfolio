@@ -81,8 +81,8 @@ const services: IServiceItem[] = [
     title: "System Programming",
     icons: [
       "/skills/linux.svg",
-      "/skills/cpp.svg",
       "/skills/c.svg",
+      "/skills/c++.png",
       "/skills/git.svg",
       "/skills/docker.svg",
     ],

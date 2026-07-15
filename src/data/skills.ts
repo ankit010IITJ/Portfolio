@@ -137,22 +137,27 @@ const skills: ISkillListItem[] = [
       {
         title: "DSA",
         level: SkillLevel.Expert,
-        icon: "/images/logical-thinking.png",
+        icon: "/images/dsa.png",
       },
       {
-        title: "Operating Systems",
+        title: "OS",
         level: SkillLevel.Intermediate,
         icon: "/skills/os.svg",
       },
       {
-        title: "Database Systems",
+        title: "DBMS",
         level: SkillLevel.Intermediate,
-        icon: "/skills/mysql.svg",
+        icon: "/skills/dbms.png",
       },
       {
-        title: "Computer Architecture",
+        title: "COA",
         level: SkillLevel.Intermediate,
-        icon: "/images/analytical-skills.png",
+        icon: "/images/coa.png",
+      },
+      {
+        title: "CN",
+        level: SkillLevel.Intermediate,
+        icon: "/images/cn.png",
       },
     ],
   },
